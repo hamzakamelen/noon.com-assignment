@@ -176,7 +176,7 @@ function App() {
     <div>
       <h2 id='electronics'>Baby must-haves</h2>
       <Button id='btn1' variant="contained" size="large">
-          VIEW ALL
+          VIEW All
         </Button>
     </div>
     <div>
